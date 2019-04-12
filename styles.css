@@ -1,0 +1,170 @@
+body{ background-color: #e0ffff;
+  }
+
+@import url('https://fonts.googleapis.com/css?family=Cute+Font|Indie+Flower');
+
+#header{
+  background-color: #4682b4;
+  height: 150px;
+  line-height: 150px;
+}
+#header a{
+  color: white;
+  text-decoration: none;
+text-transform: uppercase;
+letter-spacing: 0.1em;
+
+}
+#header a:hover{
+  color: #222;
+}
+
+#header-title{
+  display: block;
+  float: left;
+  font-size: 20px;
+  font-weight: bold;
+}
+#header-nav{
+  display: block;
+  float: right;
+  margin-top: 0;
+}
+#header-nav li{
+  display: inline;
+  padding-left: 20px;
+
+}
+main{
+  max-width: 1000px;
+  margin: 0 auto;
+}
+.Container2 {
+  display: block;
+  max-width: 1000px;
+  margin: 0 auto;
+  font-size: 20px;
+  text-align: center;
+
+}
+
+
+
+a {
+  color:#1abc9c;
+  text-decoration: none;
+}
+a:hover{
+  color:#f6a623;
+}
+
+.d1{background-color: #afeeee;
+border-radius: 100px;
+  width: 300px;
+    text-align: center;
+    margin: 0 auto;
+    padding: 15px 0;
+
+}
+
+.d2{background-color: #afeeee;
+  border-radius: 100px;
+    width: 300px;
+      text-align: center;
+      margin: 0 auto;
+      padding: 15px 0;
+
+}
+
+.d3{background-color: #afeeee;
+  border-radius: 100px;
+  width: 300px;
+  text-align: center;
+  margin: 0 auto;
+  padding: 15px 0;
+
+}
+
+.d4{background-color: #afeeee;
+  border-radius: 100px;
+    width: 300px;
+      text-align: center;
+      margin: 0 auto;
+      padding: 15px 0;
+
+}
+.d5{background-color: #afeeee;
+  border-radius: 100px;
+    width: 300px;
+      text-align: center;
+      margin: 0 auto;
+      padding: 15px 0;
+
+}
+
+main{ color:#008b8b;
+font-style: italic;
+font-size: 1.5em;
+font-family: monospace;}
+
+ol{ color: purple;}
+
+p{color: Black;}
+
+h1{ color: #113f67:inherit;
+  display: inline-block;
+}
+
+h2{ color: #87c0cd}
+
+img{
+  border: 6px Solid #022c43;
+  border-radius: 25px;
+  max-width: 300px;
+  max-height: 300px;
+
+}
+.red{ background-color:red;
+width:650px;
+height: 650px;}
+.yellow{ background-color: yellow;
+width: 300px;
+height: 300px;}
+
+h1,h2,h3,h4{
+  color:#00ced1
+}
+
+p{
+  line-height: 1.5;
+}
+.post,.about{
+  max-width: 800px;
+  margin: 0 auto;
+  padding: 60px 0;
+}
+.about{
+  text-align: center;
+
+}
+.post-author, .about-author img{
+  border-radius: 100px;
+}
+
+#footer h4{
+  color: white;
+  text-transform: uppercase;
+  letter-spacing: 0.1em;
+}
+#footer p{
+  color: white;
+}
+#footer{
+  background-color: #2f2f2f;
+  padding: 50px 0;
+}
+.column{
+  min-width: 300px;
+  display: inline-block;
+  vertical-align: top;
+}
